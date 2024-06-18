@@ -11,3 +11,7 @@
 const a = 1 + '1';
 console.log(a);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
